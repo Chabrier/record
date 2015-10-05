@@ -1,4 +1,20 @@
-# Dillinger
+# RECORD
+
+## Un projet
+
+## Une Equipe
+
+## Une plateforme
+
+## Une comunauté
+
+## Des compétences
+
+## Un suivi
+
+## la qualité
+
+## des utilisateurs
 
 Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
 
@@ -18,10 +34,17 @@ Markdown is a lightweight markup language based on the formatting conventions th
 
 This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
 
-### Version
-3.2.0
+## Responsabilité Opérationnelle
 
-### Tech
+### Le processus
+
+### Les projets
+
+### Les chantiers
+
+### Le code
+
+### 
 
 Dillinger uses a number of open source projects to work properly:
 
