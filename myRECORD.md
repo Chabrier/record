@@ -1,5 +1,17 @@
 # RECORD
-
+## La stratégie de ma présentation
+La différence entre le avant et le après.
+## Avant:
+Carthagène
+Famoz
+Déjà RECORD
+## Aprés:
+Une plateforme de modélisation
+Une Equipe
+Une suite logicielle
+Plusieurs département
+Un domaine d'application vaste
+Des attentes 
 ## Un projet
 
 ## Une Equipe
@@ -35,12 +47,20 @@ Markdown is a lightweight markup language based on the formatting conventions th
 This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
 
 ## Responsabilité Opérationnelle
-
-### Le processus
-
+### Les acteurs
+### Le qui, le qui fait quoi
+### Le processus, le notre
+### Le suivi
 ### Les projets
+#### ANAEE-France
+
 
 ### Les chantiers
+#### GVLE2
+#### WebServices
+#### vle.extension.decision
+#### vle.ibm
+#### Climatik
 
 ### Le code
 
