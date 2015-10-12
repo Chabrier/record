@@ -24,14 +24,15 @@ Equilibre entre généricité, et résultats.
 Support
 Développements génériques
 Projets scientifiques
-
 Feuille de route, entretiens individuels, réunion individuels...
 Coordination,
 Suivi
 S'assurer que qux différentes échelles il y ait un processus en adéquation avec le contexte scientifique.
 Un chantier
-Un projet scientifique. Difrférents niveaux d'autobnomie.
-Uen simple collaboration.
+Un projet scientifique. Difrférents niveaux d'autobnomie contarcatuel
+Un projet interne comme l'école chercheur..
+Une simple collaboration.
+Appel à la Sous traitance.
 
 
 ## La stratigie de ma prisentation
