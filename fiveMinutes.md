@@ -1,15 +1,50 @@
-# RECORD
-## La stratégie de ma présentation
-La différence entre le avant et le après.
+# Moi et RECORD en 5 minutes
+## Une intro percutante avec du référens du structurel et de l'équipe, du fric
+CATI IUMA, cellule élargie, le terme au sein du cati
+5 ingénieurs, 3 ingénieurs de recherches, 2 ingénieurs d'études, dont moi même.
+A cette equipe est adossé d'une part
+Et aussi
+
+## Une suite logicielle
+Qui fournit tous les outils pour réaliser un cyle de modélisation simulation pour la recherche.
+mais ausi permet l'oad.
+* une API C++ DEVS classe robuste modele. dérivable et extensible..Opensources...couplage
+* Une liste de formalisme
+* GVLE/GVLE2
+* VLE
+* RVLE
+* PYVLE
+* VLEWEB
+## Un dépot de paquets
+## Un portefeuille de projet
+## Managment..Veille techno..qualité
+Contexte de la recherche...Pragmatisme...
+Equilibre entre généricité, et résultats.
+3 axes: 
+Support
+Développements génériques
+Projets scientifiques
+
+Feuille de route, entretiens individuels, réunion individuels...
+Coordination,
+Suivi
+S'assurer que qux différentes échelles il y ait un processus en adéquation avec le contexte scientifique.
+Un chantier
+Un projet scientifique. Difrférents niveaux d'autobnomie.
+Uen simple collaboration.
+
+
+## La stratigie de ma prisentation
+La diffirence entre le avant et le aprhs.
 ## Avant:
-Carthagène
+Carthaghne
 Famoz
-Déjà RECORD
-## Aprés:
-Une plateforme de modélisation
+Dij` RECORD
+## Apris:
+Une plateforme de modilisation
 Une Equipe
 Une suite logicielle
-Plusieurs département
+Plusieurs dipartement
 Un domaine d'application vaste
 Des attentes 
 ## Un projet
@@ -18,13 +53,13 @@ Des attentes
 
 ## Une plateforme
 
-## Une comunauté
+## Une comunauti
 
-## Des compétences
+## Des compitences
 
 ## Un suivi
 
-## la qualité
+## la qualiti
 
 ## des utilisateurs
 
@@ -46,7 +81,7 @@ Markdown is a lightweight markup language based on the formatting conventions th
 
 This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
 
-## Responsabilité Opérationnelle
+## Responsabiliti Opirationnelle
 ### Les acteurs
 ### Le qui, le qui fait quoi
 ### Le processus, le notre
